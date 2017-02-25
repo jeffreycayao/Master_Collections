@@ -1,0 +1,30 @@
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.csprojResolveAssemblyReference.cache
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Class.MetroGrid.resources
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Main.resources
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Properties.Resources.resources
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.csproj.GenerateResource.Cache
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.exe.licenses
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\Data\Books.xml
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\DataGridMetro.exe
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\DataGridMetro.pdb
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\c1.win.c1flexgrid.2.dll
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\MetroFramework.Design.dll
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\MetroFramework.dll
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.exe
+C:\DESKTOP ENGINEERING\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.pdb
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.exe
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.pdb
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\Data\Books.xml
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\DataGridMetro.exe
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\DataGridMetro.pdb
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\c1.win.c1flexgrid.2.dll
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\MetroFramework.Design.dll
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\MetroFramework.dll
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.csprojResolveAssemblyReference.cache
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Class.MetroGrid.resources
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Main.resources
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Properties.Resources.resources
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.csproj.GenerateResource.Cache
+C:\DESKTOP ENGINEERING\CODE SAMPLES DBS\Projects\VISUAL STUDIO METROFRAMEWORK\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.exe.licenses
